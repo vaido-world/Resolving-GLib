@@ -10,3 +10,12 @@ InstallPackage https://gobolinux.org/packages/017/Fuse--2.9.7--x86_64.tar.bz2
 InstallPackage https://gobolinux.org/packages/017/UnionFS-Fuse--2.1--x86_64.tar.bz2
 Compile "GLib" "2.68.4" 
 ```
+
+
+# Checking if version installed and exists.
+```
+root@LiveCD ~]cd /Programs/GLib
+root@LiveCD /Programs/GLib]ls
+2.63.5  2.68.4  Current
+
+```
