@@ -1,0 +1,6 @@
+compile_version=017-GIT
+url="https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/-/archive/master/gsettings-desktop-schemas-master.tar.bz2"
+file_size=887587
+file_md5=9a0e2d0fe6bd2e9240bff09080a366e9
+dir='gsettings-desktop-schemas-master'
+recipe_type=meson
