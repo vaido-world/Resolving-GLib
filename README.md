@@ -3,6 +3,8 @@
 https://askubuntu.com/questions/58321/how-do-i-install-glib
 
 ```
+Compile "anything"
+
 MakeRecipe "GLib" "2.68.4" "https://gitlab.gnome.org/GNOME/glib/-/archive/2.68.4/glib-2.68.4.tar.bz2"
 
 InstallPackage --same "remove" "https://github.com/vaido-world/resolving-util-linux/raw/main/Util-Linux--2.35.1--x86_64.tar.bz2"
